@@ -12,26 +12,26 @@ CS1501 Algorithm Implementation
 
 ### Week 1
 
-What is a blockchain?
-How does it work? (high-level)
-Benefits / Drawbacks
-Pre-History and History of Blockchain
+1. What is a blockchain?
+1. How does it work? (high-level)
+1. Benefits / Drawbacks
+1. Pre-History and History of Blockchain
 
 ### Week 2
  
-Hashing (how to choose a good hashing algo)
-Public-key Cryptography
-Elliptic curve cryptography
+1. Hashing (how to choose a good hashing algo)
+1. Public-key Cryptography
+1. Elliptic curve cryptography
 
 ### Week 3-4:
 
-How does Bitcoin work? (details)
-Addresses
-UTXOs
-Mining (securing the blockchain)
-Nonces
-Merkle trees
-Attacks and security (sybil attack, 51% attack, etc)
+1. How does Bitcoin work? (details)
+1. Addresses
+1. UTXOs
+1. Mining (securing the blockchain)
+1. Nonces
+1. Merkle trees
+1. Attacks and security (sybil attack, 51% attack, etc)
 
 ### Week 5
 
@@ -46,11 +46,12 @@ Altcoins and variations
 ### Week 6
 
 The road ahead for cryptocurrencies
-SegWit (segregated witness)
-Lightning networks
-Atomic swaps and other cross-chain collaboration
-
+  * SegWit (segregated witness)
+  * Lightning networks
+  * Atomic swaps and other cross-chain interaction
+  
 ### Week 7
+
 Intro to Ethereum
   * A "Turing-complete version of Bitcoin"
   * Understanding smart contracts
@@ -60,10 +61,12 @@ Intro to Ethereum
   * Patricia trees (compared to Merkle trees)
 
 ### Week 8-9
-  * What is the Ethereum Virtual Machine (EVM)?
-  * Learning Solidity (most popular language that compiles to EVM bytecode)
+
+1. What is the Ethereum Virtual Machine (EVM)?
+1. Learning Solidity (most popular language that compiles to EVM bytecode)
 
 ### Week 10-11-12
-  * Developing our own token on Ethereum
-  * Developing our own DAO (distributed autonomous organization
-  * Developing a dapp (distributed app) for the final project
+
+1. Developing our own token on Ethereum
+1. Developing our own DAO (distributed autonomous organization
+1. Developing a dapp (distributed app) for the final project
